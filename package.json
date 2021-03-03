@@ -15,7 +15,7 @@
   "license": "MIT",
   "main": "lib/suit-twig-extension.js",
   "directories": {
-    "lib": "lib",
+    "lib": "lib"
   },
   "files": [
     "lib"

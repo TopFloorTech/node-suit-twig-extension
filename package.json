@@ -1,0 +1,32 @@
+{
+  "name": "suit-twig-extension",
+  "version": "0.1.0",
+  "description": "SUIT Twig extension for Twig.js projects",
+  "keywords": [
+    "twig.js",
+    "SUIT",
+    "Twig"
+  ],
+  "author": "Evan Willhite <evan@fourkitchens.com>",
+  "contributors": [
+    "Tony Klose <aklose@topfloortech.com>"
+  ],
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/suit-twig-extension.js",
+  "directories": {
+    "lib": "lib",
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "twig": "^1.13.3"
+  },
+  "devDependencies": {
+    "twig": "^1.13.3"
+  }
+}
